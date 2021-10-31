@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently learning React
 - 📫 How to reach me: [yalanskyyalexey@gmail.com](yalanskyyalexey@gmail.com)
+- [![Linkedin: YalanskyyAlexey](https://img.shields.io/badge/-YalanskyyAlexey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yalanskyy/)](https://www.linkedin.com/in/yalanskyy/)
 
 <h1></h1>
 
