@@ -24,13 +24,13 @@
 
 <img align="left" alt="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
 
-<img align="left" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+<img align="left" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 
 <img align="left" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" heiht="40"/>
 
 <img align="left" alt="Terminal" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
 
-<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
+<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
 ### Other stack:
 
