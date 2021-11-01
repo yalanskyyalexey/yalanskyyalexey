@@ -20,7 +20,7 @@
 
 <img align="left" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
 
-<img align="left" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" />
+<!-- <img align="left" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" /> -->
 
 <img align="left" alt="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
 
