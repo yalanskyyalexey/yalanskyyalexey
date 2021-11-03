@@ -4,9 +4,10 @@
 
 - 🔭 I’m currently learning React
 - 📫 How to reach me: [yalanskyyalexey@gmail.com](yalanskyyalexey@gmail.com)
-- [![Linkedin: YalanskyyAlexey](https://img.shields.io/badge/-YalanskyyAlexey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yalanskyy/)](https://www.linkedin.com/in/yalanskyy/)
 
-- [![Telegram: Yalanskyy](https://img.shields.io/badge/-Yalanskyy_Alexey-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/yal_dev/)](https://t.me/yal_dev/)
+[![Linkedin: YalanskyyAlexey](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yalanskyy/)](https://www.linkedin.com/in/yalanskyy/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yalanskyy_alexey/)
+[![Telegram: Yalanskyy](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/yal_dev/)](https://t.me/yal_dev/)
 
 <h1></h1>
 
